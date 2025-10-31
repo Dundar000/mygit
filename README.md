@@ -1,1 +1,5 @@
-[README.md.txt](https://github.com/user-attachments/files/23268425/README.md.txt)
+# Hello-World
+Hello World repository for Git tutorial
+This is an example repository for the Git tutorial.
+
+This repository is built step by step in the tutorial.
